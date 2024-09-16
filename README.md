@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nithish kumar</h1>
 <h3 align="center">I am a passionate MERN FullStack developer from India</h3>
 
-- 🔭 I am Completed MERN FullStack Development Course from **Guvi**
+- 🔭 I have Completed MERN FullStack Development Course from **Guvi**
 
 - 🌱 I have good technical knowledge on **React, NodeJs, Express, MongoDB**
 
